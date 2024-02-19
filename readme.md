@@ -1,5 +1,5 @@
 
-<h1 align="center">🔥Hi, I'm Patchker (◣ _ ◢)🔥</h1>
+<h1 align="center">Hi, I'm Patchker (◣ _ ◢)</h1>
 <h3 align="center">I'm diving deep into the digital waves 🌊 of code.</h3>
 
 </h3>
