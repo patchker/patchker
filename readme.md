@@ -53,14 +53,6 @@ I'm not just a coder; I'm a Cyber Craftsman.
 
 ![Patchker's GitHub stats](https://github-readme-stats.vercel.app/api?username=patchker&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=patchker&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patchker&layout=compact&theme=radical)
-
 
 ---
 
