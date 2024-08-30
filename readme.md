@@ -3,7 +3,7 @@
 ## 🌊 Full-Stack Dev
 
 Crafting digital experiences that blows your mind. <br><br>
-I'm not just a coder; I'm a Cyber Craftsman.
+I'm not a coder; I'm a cyber craftsman.
 ### 🚀 About Me
 - Tackling complex algorithms with a cup of coffee in hand
 - Optimizing code for that sweet, sweet performance boost
